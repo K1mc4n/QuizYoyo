@@ -1,0 +1,60 @@
+{
+  "shortDescription": "Test your knowledge of YOYO tricks and history.",
+  "questions": [
+    {
+      "question": "What is a YOYO?",
+      "answers": ["Toy", "Game", "Food"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where did YOYO originate?",
+      "answers": ["Greece", "China", "USA"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a 'Sleeper'?",
+      "answers": ["Trick", "Toy", "Player"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is 'YOYO Ma'?",
+      "answers": ["Cellist", "YOYOer", "Inventor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a 'Loop'?",
+      "answers": ["Trick", "String", "Toy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'Walk the Dog'?",
+      "answers": ["Trick", "Game", "Toy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a 'String'?",
+      "answers": ["Part", "Toy", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'Around the World'?",
+      "answers": ["Trick", "Game", "Toy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who invented YOYO?",
+      "answers": ["Flores", "Nakamoto", "Einstein"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'YOYO Day'?",
+      "answers": ["June6", "May5", "July4"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Have you followed @watchcoin?",
+      "answers": ["Yes", "No", "Soon"],
+      "correctAnswerIndex": 2
+    }
+  ]
+}
