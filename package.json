@@ -1,11 +1,11 @@
 {
-  "name": "dappykit-vercel-frame-example",
+  "name": "kimds-vercel-frame-example",
   "private": true,
   "type": "module",
   "scripts": {
-    "prepare": "cp -f ./emptyModule.cjs.js ./node_modules/@dappykit/sdk/dist/emptyModule.js",
+    "prepare": "cp -f ./emptyModule.cjs.js ./node_modules/@watchcoin/sdk/dist/emptyModule.js",
     "build": "npm run prepare && frog vercel-build",
-    "dev": "npm run prepare && APP_TITLE='test app' APP_OWNER_FID=123 APP_ADDRESS=0x293F70729Ca2b9Fb4cC9994F03517A4b90743bf6 APP_PK=0x128e6a3d1985334ea6ad31e32bd9db4fb600abed59c68b14bdf97c26546e63c9 APP_AUTH_URL=https://google.com APP_SHARE_URL=https://yahoo.com frog dev",
+    "dev": "npm run prepare && APP_TITLE='test app' APP_OWNER_FID=123 APP_ADDRESS=0xc8ABF679e14add9A6d6b6881cBDb4bCa748Cd2D0 APP_PK=0x128e6a3d1985334ea6ad31e32bd9db4fb600abed59c68b14bdf97c26546e63c9 APP_AUTH_URL=https://google.com APP_SHARE_URL=https://yahoo.com frog dev",
     "deploy": "vercel",
     "lint:check": "eslint \"api/**/*.ts\" && prettier --check \"api/**/*.ts\"",
     "check:types": "tsc --project tsconfig.json",
