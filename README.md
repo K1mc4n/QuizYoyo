@@ -1,4 +1,4 @@
-# Yoyo Games with $DEGEN Rewards
+# Yoyo Games with $MOXIE Rewards
 
 Welcome to the **Yoyo Games with $DEGEN Rewards** project! This repository contains the code and assets for an exciting and interactive gaming experience where players can participate in Yoyo games and win $DEGEN tokens as prizes. Whether you're a developer, gamer, or cryptocurrency enthusiast, this project has something fun for everyone.
 
@@ -60,7 +60,7 @@ To run this project locally or contribute, you will need the following:
 
 1. **Join the Game**: After loading the game page, connect your wallet to sign up and start playing.
 2. **Yoyo Challenges**: Select from various Yoyo challenges and complete them to earn points.
-3. **Earn $DEGEN**: Based on your game performance, you can earn $DEGEN tokens that will be transferred to your wallet automatically.
+3. **Earn $MOXIE**: Based on your game performance, you can earn $DEGEN tokens that will be transferred to your wallet automatically.
 4. **Compete for High Scores**: Compare your scores with others in the leaderboard to claim top rewards!
 
 ## Contributing
